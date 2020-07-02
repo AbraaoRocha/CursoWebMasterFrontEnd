@@ -1,7 +1,5 @@
 # Introdução ao Repositório
-Este repositório foi criado para eu salvar o código que estou utilizando durante um curso.
-O curso em questão é o: Curso Webmasters Front-End Completo 
-
+Este repositório foi criado para eu salvar o código que estou utilizando durante o curso em : Webmasters Front-End Completo 
 A tabela a seguir utilizei para salvar o código seguindo o progresso nas aulas, versionando o progresso com as tags do GitHub:
 
 MÓDULO | AULA | TAG
