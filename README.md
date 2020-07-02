@@ -1,7 +1,11 @@
 # Introdução ao Repositório
 Este repositório foi criado para eu salvar o código que estou utilizando durante o curso em : Webmasters Front-End Completo 
-A tabela a seguir utilizei para salvar o código seguindo o progresso nas aulas, versionando o progresso com as tags do GitHub:
 
+
+
+<p>A tabela a seguir utilizei para salvar o código seguindo o progresso nas aulas, versionando o progresso com as tags do GitHub:<p>
+
+----------------------------------------------------------
 
 MÓDULO | AULA | TAG
 :---------: | :-----: | :---: |
