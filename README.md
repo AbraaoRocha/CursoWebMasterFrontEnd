@@ -8,7 +8,7 @@ Este repositório foi criado para eu salvar o código que estou utilizando duran
 ----------------------------------------------------------
 
 MÓDULO | AULA | TAG
-:---------: | :-----: | :---: |
+:---------: | :----- | :---: |
 02 - ENTENDENDO O HTML | TAG INICIAL NO GIT| 1.0
 02 - ENTENDENDO O HTML | CRIANDO O PRIMEIRO DOCUMENTO  | 1.1
 02 - ENTENDENDO O HTML | CONHECENDO AS TAGS | 1.2
